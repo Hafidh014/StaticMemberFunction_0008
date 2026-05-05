@@ -17,3 +17,7 @@ class Mahasiswa {
 };
 
 int Mahasiswa::nim = 10;
+
+void Mahasiswa::setID() {
+    id = ++nim;
+};
