@@ -15,3 +15,5 @@ class Mahasiswa {
         setID();
     }
 };
+
+int Mahasiswa::nim = 10;
