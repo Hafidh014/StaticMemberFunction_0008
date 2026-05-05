@@ -8,4 +8,7 @@ class Mahasiswa {
     int id;
     string nama;
 
+    void setID();
+    void printAll();
+
 };
